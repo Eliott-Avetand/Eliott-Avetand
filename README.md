@@ -4,6 +4,6 @@ I'm Eliott Avetand, a Fullstack Developer 🌐
 
 I also developed games on Unity, Unreal Engine and C++ 💻
 
-I'm interested in Finance, self-development and manga 👺
+I'm interested in Finance, self-development and game production
 
 Take a look at the differents projects I made !
